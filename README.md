@@ -1,8 +1,7 @@
 # Project Title - TheTehriCafe
 
 # Description
-A Front-End Website Of Restro Using HTML,CSS,JAVASCRIPT.
-This is the website for restaurant , complete Analysis of restro ,and for also customers for ordering food and online payment to restro (made with html)
+A Front-End Website Of Restro Using HTML,CSS,JAVASCRIPT. This Is The Website For Restaurant , Complete Analysis Of Restro ,And For Also Customers For Ordering Food And Online Payment To Restro (Made With Html)
 
 # GitHub repository URL -
 https://github.com/AdityaAnukrishnaBhatt/TheTehriCafe
