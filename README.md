@@ -13,4 +13,7 @@ https://calm-sky-0069a1b10.1.azurestaticapps.net/
 Your Name - @Aditya Anukrishna Bhatt
 Email - adityabhatt549@gmail.com
 
+# Project Objective
+I have prepared this website page for an internship future talent ready project by microsoft Through this website i learned how to deploy web app in  html css and javascript using microsoft azure.
+
 Thank you so much for visiting my website.
